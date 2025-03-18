@@ -1,0 +1,54 @@
+{
+  "extensionName": {
+    "message": "Clickbait Remover for Youtube",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "替換 youtube.com 上的縮圖及修改影片標題",
+    "description": "Description of the extension."
+  },
+  "whereToGrabTheThumbnailImage": {
+    "message": "選擇要擷取縮圖的時間點：",
+    "description": ""
+  },
+  "startOfTheVideo": {
+    "message": "影片開頭",
+    "description": ""
+  },
+  "middleOfTheVideo": {
+    "message": "影片中間",
+    "description": ""
+  },
+  "endOfTheVideo": {
+    "message": "影片結尾",
+    "description": ""
+  },
+  "doNotModify": {
+    "message": "不要修改",
+    "description": ""
+  },
+  "howToFormatTheVideoTitles": {
+    "message": "影片標題格式化方式：",
+    "description": ""
+  },
+  "lowercase": {
+    "message": "小寫",
+    "description": ""
+  },
+  "capitaliseSentence": {
+    "message": "句首大寫",
+    "description": ""
+  },
+  "capitaliseWords": {
+    "message": "每個字首大寫",
+    "description": ""
+  },
+  "donate": {
+    "message": "贊助支持！",
+    "description": ""
+  },
+  "thanksForDonating": {
+    "message": "感謝您願意考慮贊助支持！:D",
+    "description": ""
+  }
+}
