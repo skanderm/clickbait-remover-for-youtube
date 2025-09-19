@@ -42,6 +42,7 @@ if (typeof window.styleElement === 'undefined') { // shitty way to detect if scr
                 .ytp-videowall-still-info-title,
                 .large-media-item-metadata > a > h3 > span,
                 .media-item-metadata > a > h3 > span,
+                .yt-lockup-metadata-view-model__title > span,
                 .compact-media-item-headline > span {
                     text-transform: lowercase;
                 }
@@ -54,6 +55,7 @@ if (typeof window.styleElement === 'undefined') { // shitty way to detect if scr
                 .ytp-videowall-still-info-title,
                 .large-media-item-metadata > a > h3 > span,
                 .media-item-metadata > a > h3 > span,
+                .yt-lockup-metadata-view-model__title > span,
                 .compact-media-item-headline > span {
                     text-transform: lowercase;
                     display: block !important;
@@ -63,6 +65,7 @@ if (typeof window.styleElement === 'undefined') { // shitty way to detect if scr
                 .ytp-videowall-still-info-title::first-letter,
                 .large-media-item-metadata > a > h3 > span::first-letter,
                 .media-item-metadata > a > h3 > span::first-letter,
+                .yt-lockup-metadata-view-model__title > span::first-letter,
                 .compact-media-item-headline > span::first-letter {
                     text-transform: uppercase;
                 }
@@ -75,6 +78,7 @@ if (typeof window.styleElement === 'undefined') { // shitty way to detect if scr
                 .ytp-videowall-still-info-title,
                 .large-media-item-metadata > a > h3 > span,
                 .media-item-metadata > a > h3 > span,
+                .yt-lockup-metadata-view-model__title > span,
                 .compact-media-item-headline > span {
                     text-transform: lowercase;
                     display: block !important;
@@ -84,6 +88,7 @@ if (typeof window.styleElement === 'undefined') { // shitty way to detect if scr
                 .ytp-videowall-still-info-title::first-line,
                 .large-media-item-metadata > a > h3 > span::first-line,
                 .media-item-metadata > a > h3 > span::first-line,
+                .yt-lockup-metadata-view-model__title > span::first-line,
                 .compact-media-item-headline > span::first-line {
                     text-transform: capitalize;
                 }
